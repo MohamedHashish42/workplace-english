@@ -5,7 +5,8 @@ This repository includes structured lessons, real-world examples, role-plays, an
 
 ## 📑 Course Sections
 
-1. [Talking About Your Job](talking-about-your-job.md)
+1. [Talking About Your Job](./talking-about-your-job.md)
+2. [Work Types and Responsibilities](./work-types-and-responsibilities.md)
 
 ## 🎯 Who Is This For?
 
