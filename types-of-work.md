@@ -1,5 +1,5 @@
 
-# **2. Work Types and Responsibilities**
+# **2. Types of Work**
 
 ## 💼 Types of Work
 
@@ -17,48 +17,16 @@
 
 
 
-## 🛠️ Responsibilities at Work
-
-These are common verbs used to describe your responsibilities:
-
-- **To manage** → to lead or supervise people or projects.  
-  *Example:* *I manage a team of five developers.*
-
-- **To organize** → to arrange tasks, schedules, or resources.  
-  *Example:* *I organize meetings and project timelines.*
-
-- **To deal with** → to handle tasks, clients, or problems.  
-  *Example:* *I deal with customer support issues every day.*
-
-- **To be responsible for** → to be accountable for something.  
-  *Example:* *I am responsible for testing and deploying new software features.*
-
-
-
 ## 📝 Quick Notes
 
 ### Freelancer vs Contractor
 - A **freelancer** often chooses projects freely and works for multiple clients.  
 - A **contractor** usually works for one client/company during the contract.
 
-### Manage vs Organize
-- *Manage* = control or lead people/projects.  
-- *Organize* = arrange or structure things.
-
-
 
 ## ✍️ Practice Activities
 
-### 1. Fill in the blanks  
-Try completing these sentences:
-
-- I work **________** (full-time / part-time / as a freelancer / as a contractor).  
-- I manage **________**.  
-- I organize **________**.  
-- I deal with **________**.  
-- I am responsible for **________**.
-
-### 2. Write a short introduction  
+### Write a short introduction  
 Write 3–4 sentences describing your work type and responsibilities.
 
 **Example:**  
