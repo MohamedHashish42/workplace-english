@@ -9,6 +9,7 @@ This repository includes structured lessons, real-world examples, role-plays, an
 2. [Types Of Work](./types-of-work.md)
 3. [Talking About Your Company](./talking-about-your-company.md)
 4. [Workplace Roles and Responsibilities](./workplace-roles-and-responsibilities.md)
+5. [Talking About Departments in a Company](./talking-about-departments-in-Company.md)
 
 ## 🎯 Who Is This For?
 
