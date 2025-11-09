@@ -1,7 +1,8 @@
 # **Workplace English**
 
-A practical course designed to help you master **essential English for the workplace**.  
-This repository includes structured lessons, real-world examples, role-plays, and interactive practice activities.
+This repository documents my personal learning journey to improve **English for the workplace**.  
+It includes structured notes, real-world examples, and short practice activities that I’m collecting and refining as I learn.
+
 
 ## 📑 Course Sections
 
@@ -10,9 +11,16 @@ This repository includes structured lessons, real-world examples, role-plays, an
 3. [Talking About Your Company](./talking-about-your-company.md)
 4. [Workplace Roles and Responsibilities](./workplace-roles-and-responsibilities.md)
 5. [Talking About Departments in a Company](./talking-about-departments-in-Company.md)
+6. [Talking About the Workplace](./talking-about-departments-in-Company.md)
+
 
 ## 🎯 Who Is This For?
 
 - Students preparing for business environments  
 - Learners looking to improve workplace communication  
+
+## 📚 Notes
+I’ll keep updating it as I learn new expressions and topics.
+
+
 
