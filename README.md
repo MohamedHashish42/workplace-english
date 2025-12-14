@@ -12,7 +12,9 @@ It includes structured notes, real-world examples, and short practice activities
 4. [Workplace Roles and Responsibilities](./workplace-roles-and-responsibilities.md)
 5. [Talking About Departments in a Company](./talking-about-departments-in-Company.md)
 6. [Talking About the Workplace](./talking-about-the-workplace.md)
-7. [Workplace Equipment](./Workplace-equipment.md)
+7. [Workplace Equipment](./workplace-equipment.md)
+8. [Meeting Visitors and Small Talk](./meeting-visitors-and-small-talk.md)
+
 
 
 ## 🎯 Who Is This For?
