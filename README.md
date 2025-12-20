@@ -14,6 +14,7 @@ It includes structured notes, real-world examples, and short practice activities
 6. [Talking About the Workplace](./talking-about-the-workplace.md)
 7. [Workplace Equipment](./workplace-equipment.md)
 8. [Meeting Visitors and Small Talk](./meeting-visitors-and-small-talk.md)
+9. [Workplace Skills](./workplace-skills.md)
 
 
 
