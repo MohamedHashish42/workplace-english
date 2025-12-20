@@ -16,7 +16,7 @@ It includes structured notes, real-world examples, and short practice activities
 8.  [Meeting Visitors and Small Talk](./meeting-visitors-and-small-talk.md)
 9.  [Workplace Skills](./workplace-skills.md)
 10. [Describing Personality at Work](./describing-personality-at-work.md)
-
+11. [Workplace Communication Phrases](./workplace-communication-phrases.md)
 
 
 
@@ -24,9 +24,6 @@ It includes structured notes, real-world examples, and short practice activities
 
 - Students preparing for business environments  
 - Learners looking to improve workplace communication  
-
-## 📚 Notes
-I’ll keep updating it as I learn new expressions and topics.
 
 
 
